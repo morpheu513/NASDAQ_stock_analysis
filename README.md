@@ -1,6 +1,6 @@
 # DA_project
 
-All 49 stocks are dealt in NASDAQ/NYSE market, which are of mostly large & mid cap stocks and a few small caps as well, and we have tried to study the impact of 2007-09 economic recession and the current pandemic on all the following stocks. And predict the nature of the stocks ,if not for the pandemic.
+All 50 stocks are dealt in NASDAQ/NYSE market, which are of mostly large & mid cap stocks and a few small caps as well, and we have tried to study the impact of 2007-09 economic recession and the current pandemic on all the following stocks. And predict the nature of the stocks ,if not for the pandemic.
 
 ## List of Sectors
 
@@ -31,7 +31,7 @@ Real Estate
 'JNJ'-Johnson & Johnson Medical device, 'JPM'-JPMorgan Chase Investment banking, 'JBHT'-J.B. Hunt Transportation and Logistics,
 'KO'-The Coca-Cola Company Beverages, 'KEX'-Kirby Corporation Transportation, 
 'MCD'-McDonald's Fast food, 'MSFT'-Microsoft Corporation Technology,'MMM'-3M Multinational conglomerate, 'MRK'-Merck & Co. Pharmaceutical,
-'NKE'-Nike Footwear manufacturing, 'NVDA'-Nvidia Computer game,
+'NFLX'-Netflix Production, 'NKE'-Nike Footwear manufacturing, 'NVDA'-Nvidia Computer game,
 'PFE'-Pfizer Pharmaceutical, 'PG'-Procter & Gamble Consumer Goods, 'PYPL'-PayPal E-Payment, 'PEP'-PepsiCo Food,
 'REGN'-Regeneron Pharmaceuticals Biotechnology,
 'SBUX'-Starbucks Coffeehouse, 
