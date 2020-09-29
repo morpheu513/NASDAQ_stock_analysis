@@ -24,6 +24,7 @@ Real Estate
 'BA'-Boeing Aerospace, 'BAC'-Bank of America Investment banking,
 'CAT'-Caterpillar Inc. Construction machinery and equipment, 'CVX'-Chevron Corporation Oil industry, 'CSCO'-Cisco Systems Networking hardware, 'COST'-Costco Retail,
 'DIS'-The Walt Disney Company Mass media,   
+'FB'-Facebook Social Media
 'GE'-General Electric Multinational conglomerate, 'GS'-Goldman Sachs Investment banking, 'GOOGL'-Alphabet Inc. Multinational conglomerate, 
 'HD-The Home Depot Home improvement', 'HOG'-Harley-Davidson motorcycle manufacturer,
 'IBM'-IBM Computer hardware, 'INTC'-Intel Semiconductor, 'INFY'-Infosys Information technology consulting,
