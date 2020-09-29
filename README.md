@@ -49,11 +49,12 @@ Real Estate
 'KO'-The Coca-Cola Company Beverages
 'KEX'-Kirby Corporation Transportation
 'MCD'-McDonald's Fast food
-'MSFT'-Microsoft Corporation Technology'MMM'-3M Multinational conglomerate
+'MSFT'-Microsoft Corporation Technology
+'MMM'-3M Multinational conglomerate
 'MRK'-Merck & Co. Pharmaceutical
 'NFLX'-Netflix Production
 'NKE'-Nike Footwear manufacturing
-'NVDA'-Nvidia Computer game
+'NVDA'-Nvidia Computer Hardware and Software 
 'PFE'-Pfizer Pharmaceutical
 'PG'-Procter & Gamble Consumer Goods
 'PYPL'-PayPal E-Payment
