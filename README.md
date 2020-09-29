@@ -1,6 +1,6 @@
 # DA_project
 
-All 48 stocks are dealt in NASDAQ/NYSE market, which are of large,mid and small caps as well, and we have tried to study the impact of 2007-9 economic recession and the current pandemic on all the following stocks. 
+All 49 stocks are dealt in NASDAQ/NYSE market, which are of mostly large & mid cap stocks and a few small caps as well, and we have tried to study the impact of 2007-09 economic recession and the current pandemic on all the following stocks. And predict the nature of the stocks ,if not for the pandemic.
 
 ## List of Sectors
 
