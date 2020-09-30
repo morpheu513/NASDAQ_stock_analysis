@@ -72,3 +72,16 @@ Real Estate
 'WMT'-Walmart Retail
 'XOM'-ExxonMobil multinational oil and gas
 ```
+Papers refered to get more insight into the problem and it's analysis:
+
+1. https://arxiv.org/pdf/1808.01560v5.pdf
+
+2. http://www.ijesi.org/papers/NCIOT-2018/Volume-4/2.%2006-13.pdf
+
+3. https://arxiv.org/pdf/1908.07999v3.pdf
+
+4. https://www.nber.org/papers/w27387.pdf
+
+5.
+
+6.
