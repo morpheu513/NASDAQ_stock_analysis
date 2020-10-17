@@ -39,6 +39,7 @@ Real Estate
 'GS'-Goldman Sachs Investment banking
 'GOOGL'-Alphabet Inc. Multinational conglomerate
 'HD-The Home Depot Home improvement'
+'HDB'-HDFC Bank Financial services
 'HOG'-Harley-Davidson motorcycle manufacturer
 'IBM'-IBM Computer hardware
 'INTC'-Intel Semiconductor
