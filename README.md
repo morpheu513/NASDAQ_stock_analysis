@@ -57,7 +57,6 @@ Real Estate
 'NVDA'-Nvidia Computer Hardware and Software 
 'PFE'-Pfizer Pharmaceutical
 'PG'-Procter & Gamble Consumer Goods
-'PYPL'-PayPal E-Payment
 'PEP'-PepsiCo Food
 'REGN'-Regeneron Pharmaceuticals Biotechnology
 'SBUX'-Starbucks Coffeehouse
@@ -71,6 +70,7 @@ Real Estate
 'VZ'-Verizon Communications Telecommunications
 'WMT'-Walmart Retail
 'XOM'-ExxonMobil multinational oil and gas
+'YUM'-Yum! Brands Fast food
 ```
 Papers refered to get more insight into the problem and it's analysis:
 
