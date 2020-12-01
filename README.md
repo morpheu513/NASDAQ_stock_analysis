@@ -1,4 +1,4 @@
-# DA_project
+# Stock Analysis
 
 All 50 stocks are dealt in NASDAQ/NYSE market
 which are of mostly large & mid cap stocks and a few small caps as well
