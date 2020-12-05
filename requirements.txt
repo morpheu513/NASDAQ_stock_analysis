@@ -1,0 +1,7 @@
+pmdarima==1.2.1
+scipy==1.2.3
+sklearn==0.22.2
+keras==2.4.3
+numpy==1.18.5
+pandas==1.1.4
+json==2.0.9
